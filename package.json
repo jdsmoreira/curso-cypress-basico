@@ -1,0 +1,20 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "Curso De Cypress da Escola TAT",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Jeferson Duarte Souza Moreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}
